@@ -2,6 +2,7 @@ import unittest
 import medical_data_visualizer
 import matplotlib as mpl
 
+# test
 
 # the test case
 class CatPlotTestCase(unittest.TestCase):
